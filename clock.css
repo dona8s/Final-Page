@@ -1,0 +1,25 @@
+body {
+    background-color: #b0c4de;
+    color: #6498ed;
+
+
+	font-family: "Times New Roman";
+	text-align: center;
+	font-size: 40px;
+}
+
+h1 {
+		font-family: "Times New Roman";
+    color: #6498ed;
+	text-align: center;
+	font-size: 80px;
+}
+
+
+
+p {
+	font-family: "Times New Roman";
+	color: white;
+	text-align: center;
+}
+
